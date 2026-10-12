@@ -1,0 +1,19 @@
+{
+  "name": "novelly-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Backend API for the Novelly app. Verifies Firebase ID tokens and stores user profiles (and later, books, etc.) in MongoDB.",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^16.6.1",
+    "express": "^4.21.2",
+    "firebase-admin": "^13.10.0",
+    "mongoose": "^8.9.5"
+  }
+}

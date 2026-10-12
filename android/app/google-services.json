@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "266495750810",
+    "project_id": "novelly-80daa",
+    "storage_bucket": "novelly-80daa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266495750810:android:81e06d012b3bf9ed1fe523",
+        "android_client_info": {
+          "package_name": "com.example.novelly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266495750810-7h7tsskukdo2jurs0m36o0r5qjg3fqnq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.novelly",
+            "certificate_hash": "e0f710db16bbc830d8beff5cd85bdd934aa06735"
+          }
+        },
+        {
+          "client_id": "266495750810-g6ibnqm5ilk2tr4ehr4heuvoqbpaqghv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_H2DMyEScLF0t_bJhre11liuJgHDa0m0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266495750810-g6ibnqm5ilk2tr4ehr4heuvoqbpaqghv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "266495750810-h243vvkfn7l1f0pn8p53dpgfbpa1u42r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.novelly"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
